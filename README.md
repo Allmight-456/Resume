@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 ## 🛠️ Skills
 
 - **Frontend**: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend**: Node.js, Express, Next.js
+- **Backend**: Node.js, Express, Next.js ,GO lang
 - **UI**: ShadCN UI, Aceternity UI
 - **Database**: MongoDB, Prisma Postgres
 - **DevOps**: Docker, Kubernetes, Linux, Git
@@ -28,11 +28,12 @@ It provides new fans with information on free streaming sites, subscription plat
 A powerful toolkit for crafting stunning, responsive frontends using Next.js, ShadCN UI, and Framer Motion. 
 It includes a modern component library, fluid animations, and full TypeScript support.
 
-### [Modern Dashboard](https://github.com/Allmight-456/ShadCN_Dashboard)
-A modern dashboard application built with Next.js, TypeScript, and ShadCN UI. 
-Features include a responsive sidebar, data visualization components, and custom UI elements for an enhanced user experience.
+### [Express Contact App](https://github.com/Allmight-456/Express_Contact_app.git)
+An Express-based Contact Application that provides a RESTful API for managing a contact database and user authentication.
+This project leverages MongoDB for data persistence, JWT for secure user authentication, and bcrypt for password hashing.
 
-### [Portfolio_site](https://github.com/Allmight-456/modern-dashboard)
+### [Go Ticket Booking CLI App](https://github.com/Allmight-456/Go_Ticket_booking_app.git)
+ This project is built with Go and incorporates advanced features such as package-level variables, modular code organization, inter-package communication, maps, slices, and input validation.
 
 ### [Open my profile to access more Repositories](https://github.com/Allmight-456)
 
