@@ -1,4 +1,4 @@
-# 💻 [Ishan Kumar] - Full Stack Developer
+# 💻 [Ishan Kumar] - Software Developer
 
 ## 👨‍💻 About Me
 I'm a passionate Full Stack Developer with expertise in building modern web applications using the MERN stack, Next.js, and PostgreSQL. I have a strong background in both frontend and backend technologies, UI/UX design, and DevOps practices. My focus is on creating responsive, user-friendly, and highly performant web applications.
