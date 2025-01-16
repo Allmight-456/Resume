@@ -1,5 +1,5 @@
-# 💻 [Ishan Kumar](ishankumar.live) - Software Developer
-[Portfolio](ishankumar.live)
+# 💻 [Ishan Kumar](https://ishankumar.live) - Software Developer
+[Portfolio](https://ishankumar.live)
 
 ## 👨‍💻 About Me
 I'm a passionate Full Stack Developer with expertise in building modern web applications using the MERN stack, Next.js, Python and PostgreSQL. I have a strong background in both frontend and backend technologies, UI/UX design, and DevOps practices. My focus is on creating responsive, user-friendly, and highly performant web applications.
