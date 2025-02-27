@@ -6,9 +6,9 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 
 ## 🛠️ Skills
 
-- **Frontend**: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend**: Node.js, Express, Next.js ,GO lang, Python
-- **UI**: ShadCN UI, Aceternity UI
+- **Frontend**: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS , Streamlit
+- **Backend**: Node.js, Express, Next.js ,GO lang, Python, Lanchain
+- **UI**: ShadCN UI, Aceternity UI ,Once UI , Spline 3D
 - **Database**: MongoDB, Prisma Postgres
 - **DevOps**: Docker, Kubernetes, Linux, Git
 - **Web3**:Rust , Solidity , Solana
@@ -20,6 +20,14 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
   Relevant Courses: [Operating System,IoT, Computer Networks, Data Mining ,Cloud Computing, Web Dev, MicroController, Software Engineering ]
 
 ## 🚀 Projects
+### [RepoMaster](https://github.com/Allmight-456/RepoMaster.git)
+RepoMaster is a tool designed to generate documentation, Dockerfiles, and Docker Compose configurations from a GitHub repository URL. It leverages the Gemini LLM and Langchain to analyze the codebase and produce structured outputs.
+
+### [PDF Sage](https://github.com/Allmight-456/PDFSage.git)
+PDFSage is a web application that allows users to upload PDF and TXT files and ask questions about their content. It leverages Google Generative AI and FAISS for efficient vector search and question answering.
+
+### [Rail Reserve Pro](https://github.com/Allmight-456/irctc_api_express_postgres.git)
+Engineered a scalable REST API for train reservation systems using Express.js, Prisma ORM, and PostgreSQL, implementing atomic transactions to handle concurrent bookings and prevent race conditions. Developed comprehensive user authentication and role-based access control (RBAC) using JWT tokens, enabling secure admin operations and passenger booking management with 99.9% booking consistency
 
 ### [Anime Haven](https://github.com/Allmight-456/Anime_Haven_React_app)
 A React-based project designed for browsing and interacting with anime content, featuring dynamic transitions and a visually appealing interface.
