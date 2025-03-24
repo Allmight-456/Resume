@@ -20,11 +20,18 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
   Relevant Courses: [Operating System,IoT, Computer Networks, Data Mining ,Cloud Computing, Web Dev, MicroController, Software Engineering ]
 
 ## 🚀 Projects
+### [Market Research cum Proposal Generator AI](https://github.com/Allmight-456/market-research-catalyst.git)
+This project automates the process of market research, use case generation, resource discovery, and final proposal creation using a multi-agent system powered by Large Language Models (LLMs) and Generative AI (GenAI).
+
 ### [RepoMaster](https://github.com/Allmight-456/RepoMaster.git)
 RepoMaster is a tool designed to generate documentation, Dockerfiles, and Docker Compose configurations from a GitHub repository URL. It leverages the Gemini LLM and Langchain to analyze the codebase and produce structured outputs.
 
 ### [PDF Sage](https://github.com/Allmight-456/PDFSage.git)
 PDFSage is a web application that allows users to upload PDF and TXT files and ask questions about their content. It leverages Google Generative AI and FAISS for efficient vector search and question answering.
+
+### [DocVision](https://github.com/Allmight-456/OCR_pdf_image_url_reader.git)
+DocVision OCR is a powerful Streamlit-based web application that leverages the Mistral OCR API to extract text from both PDF documents and images. Users can either provide a URL or upload a local file. The app displays the original document (or image) in a preview alongside the extracted OCR results
+
 
 ### [Rail Reserve Pro](https://github.com/Allmight-456/irctc_api_express_postgres.git)
 Engineered a scalable REST API for train reservation systems using Express.js, Prisma ORM, and PostgreSQL, implementing atomic transactions to handle concurrent bookings and prevent race conditions. Developed comprehensive user authentication and role-based access control (RBAC) using JWT tokens, enabling secure admin operations and passenger booking management with 99.9% booking consistency
