@@ -7,7 +7,8 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 ## 🛠️ Skills
 
 - **Frontend**: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS , Streamlit
-- **Backend**: Node.js, Express, Next.js ,GO lang, Python, Lanchain
+- **Backend**: Node.js, Express, Next.js ,GO lang, Python FastAPI
+- **AI&ML** :TensorFlow, OpenCV, Scikit-learn, Numpy, Pandas, LangChain, RAG, OpenAI API, Gemini API, Mistral API ,Matplotlib, Seaborn
 - **UI**: ShadCN UI, Aceternity UI ,Once UI , Spline 3D
 - **Database**: MongoDB, Prisma Postgres
 - **DevOps**: Docker, Kubernetes, Linux, Git
@@ -25,6 +26,9 @@ This project automates the process of market research, use case generation, reso
 
 ### [RepoMaster](https://github.com/Allmight-456/RepoMaster.git)
 RepoMaster is a tool designed to generate documentation, Dockerfiles, and Docker Compose configurations from a GitHub repository URL. It leverages the Gemini LLM and Langchain to analyze the codebase and produce structured outputs.
+
+### [Event Management API](https://github.com/Allmight-456/Event_management_fastapi.git)
+It is a Python backend for Collaborative Event Management System with FastAPI .A robust FastAPI-based event management system with real-time collaboration, permission-based sharing, and comprehensive version tracking.
 
 ### [PDF Sage](https://github.com/Allmight-456/PDFSage.git)
 PDFSage is a web application that allows users to upload PDF and TXT files and ask questions about their content. It leverages Google Generative AI and FAISS for efficient vector search and question answering.
